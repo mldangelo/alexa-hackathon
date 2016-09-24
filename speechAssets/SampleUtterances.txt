@@ -1,0 +1,3 @@
+NameColorIntent what color is {REDa} {REDb} {GREENa} {GREENb} {BLUEa} {BLUEb}
+NameColorIntent {REDa} {REDb} {GREENa} {GREENb} {BLUEa} {BLUEb}
+NameColorIntent how about {REDa} {REDb} {GREENa} {GREENb} {BLUEa} {BLUEb}

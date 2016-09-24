@@ -1,0 +1,33 @@
+{
+    "intents": [{
+        "intent": "NameColorIntent",
+      "slots": [
+        {
+        "name" : "REDa",
+        "type" : "HEX"
+        }, {
+        "name" : "REDb",
+        "type" : "HEX"
+        }, {
+        "name" : "GREENa",
+        "type" : "HEX"
+        }, {
+        "name" : "GREENb",
+        "type" : "HEX"
+        }, {
+        "name" : "BLUEa",
+        "type" : "HEX"
+        },
+                {
+        "name" : "BLUEb",
+        "type" : "HEX"
+        }
+      ]
+    }, {
+        "intent": "AMAZON.HelpIntent"
+    }, {
+        "intent": "AMAZON.StopIntent"
+    }, {
+        "intent": "AMAZON.CancelIntent"
+    }]
+}
